@@ -1,3 +1,15 @@
+### Hi there 👋
+
+
+
+<h1>system and network technician</h1>
+
+<div style="width: 1px; height: 5px;">
+
+  ![Github Datacenter](https://github.com/2020galmi/ohtmane_elghalmi/blob/main/Datacenter.jpg)
+
+</div>
+
 <h1>system and network technician</h1>
 <h1>contact me on : 
 
@@ -14,9 +26,7 @@ galmiohtm@gmail.com
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/ohtmgalmi.png" alt="TryHackMe">
 
-body {
-  background-image: url(https://github.com/2020galmi/ohtmane_elghalmi/blob/main/Datacenter.jpg);
-}
+
 
 
 <h2> Skills </h2>
