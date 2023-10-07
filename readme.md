@@ -6,9 +6,9 @@ galmiohtm@gmail.com
 
 
 </h1>
-<h1>badge from tryhackmr</h1>
+<h1>tryhackme profile </h1>
 
-<script src="https://tryhackme.com/badge/1223150"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/ohtmgalmi.png" alt="TryHackMe">
 
 
 <h2> Skills </h2>
