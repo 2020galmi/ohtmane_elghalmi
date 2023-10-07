@@ -14,6 +14,10 @@ galmiohtm@gmail.com
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/ohtmgalmi.png" alt="TryHackMe">
 
+body {
+  background-image: url(https://github.com/2020galmi/ohtmane_elghalmi/blob/main/Datacenter.jpg);
+}
+
 
 <h2> Skills </h2>
 <p>
