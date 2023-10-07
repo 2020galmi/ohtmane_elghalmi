@@ -1,3 +1,16 @@
+<h1>system and network technician</h1>
+<h1>contact me on :
+ohtmaneelghalmi@proton.me
+
+galmiohtm@gmail.com
+
+
+</h1>
+<h1>badge from tryhackmr</h1>
+
+<script src="https://tryhackme.com/badge/1223150"></script>
+
+
 <h2> Skills </h2>
 <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
@@ -13,3 +26,4 @@
     <a href="#"><img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-black?style=for-the-badge&logo=proxmox&logoColor=orange"></a>
     <a href="#"><img alt="Powershell" src="https://img.shields.io/badge/powershell-lightgrey?style=for-the-badge&logo=powershell&logoColor=blue"></a>
 </p>
+
